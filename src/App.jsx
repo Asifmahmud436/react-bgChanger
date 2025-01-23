@@ -1,15 +1,15 @@
 // import { useState } from 'react'
 import './App.css'
-
+import Color from './Components/Colors'
 function App() {
   return (
     <>
       <nav>
         <ul>
-          <li>Red</li>
-          <li>Green</li>
-          <li>Blue</li>
-          <li>Purple</li>
+          <Color name='Red'/>
+          <Color name='Green'/>
+          <Color name='Blue'/>
+          <Color name='Purple'/>
         </ul>
       </nav>
     </>
