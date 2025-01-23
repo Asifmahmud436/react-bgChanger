@@ -6,10 +6,10 @@ function App() {
     <>
       <nav>
         <ul>
-          <Color name='Red'/>
-          <Color name='Green'/>
-          <Color name='Blue'/>
-          <Color name='Purple'/>
+          <Color name='red'/>
+          <Color name='green'/>
+          <Color name='blue'/>
+          <Color name='purple'/>
         </ul>
       </nav>
     </>
